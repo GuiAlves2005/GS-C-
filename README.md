@@ -11,6 +11,9 @@ API desenvolvida para a disciplina de Software Development C# com o tema "O Futu
 * Guilherme Alves de Lima - 550433
 * Leonardo de Oliveira Ruiz - 98901
 
+## Link Video YT
+https://youtu.be/EGwowtuvVcc
+
 ## Tecnologias Utilizadas
 * .NET (ASP.NET Core Web API)
 * C#
